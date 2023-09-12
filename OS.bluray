@@ -1,0 +1,14 @@
+DSPFILE BLURAY SUPERUSER
+superuser("Xiaomi Redmi Note 11S")
+web.data.SERVER.START.command
+superuser_perrmission
+dvb_console
+set_command_aux_include
+//BOOT
+DEVICE NAME("RPiPlayer")
+BOOTLOADER
+__CLYSTALLINE__
+__DSP__
+__OS__
+__12315461__
+__START_PROGRESS__
